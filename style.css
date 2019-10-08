@@ -2,7 +2,10 @@ body
 {
 width: 800px;
 background-color: #eae9e9;
-font-family: Ariel;
+font-family: Arial;
 font-color: #420000;
+  font-size: 16px;
 padding: 25px 25px 25px 25px;
+ border-style: solid;
+ border-width: 0px 0px 0px 20px;
 }
