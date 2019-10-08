@@ -11,4 +11,4 @@ padding: 25px 25px 25px 25px;
  border-width: 0px 0px 0px 20px;
 }
 
-d3.select("body").append("p").text("You have been assimilated.")
+d3.select("body").append("p").text("You have been assimilated.");
