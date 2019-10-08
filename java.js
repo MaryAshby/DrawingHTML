@@ -1,1 +1,1 @@
-d3.select("body".append("button").text("You have been assimulated.")
+d3.select("body").append("button").text("You have been assimilated.")
